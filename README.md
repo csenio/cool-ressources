@@ -3,6 +3,11 @@
 ## coding
  https://squoosh.app/editor
  
+## challenges
+https://cssbattle.dev/
+ 
+## socials
+https://spectrum.chat/
  
 ## design
 
