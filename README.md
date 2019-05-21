@@ -2,6 +2,7 @@
 
 ## blogs and learning
 https://kentcdodds.com
+https://overreacted.io/
 
 ## coding tools
 https://www.webpagetest.org
