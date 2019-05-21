@@ -1,6 +1,10 @@
 # cool-ressources
 
-## coding
+## blogs and learning
+https://kentcdodds.com
+
+## coding tools
+https://www.webpagetest.org
  https://squoosh.app/editor
  https://transfonter.org/
  
