@@ -8,6 +8,7 @@ https://overreacted.io/
 https://www.webpagetest.org
  https://squoosh.app/editor
  https://transfonter.org/
+ https://every-layout.dev/
  
 ## challenges
 https://cssbattle.dev/
